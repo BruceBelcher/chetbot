@@ -15,7 +15,7 @@
     "react-dom": "^16.8.6",
     "react-dragula": "^1.1.17",
     "react-floating-action-button": "^1.0.5",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-tiny-fab": "^2.0.0"
   },
   "scripts": {
